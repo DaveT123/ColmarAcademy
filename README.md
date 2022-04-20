@@ -7,5 +7,5 @@
 # 2. What did you struggle with in this project?
 # How the flex containers look on the website. They were not appearing correctly at the start.
 
-# What would make your experience with this assessment better?
+# 3. What would make your experience with this assessment better?
 # NIL. It has been a great experience.
